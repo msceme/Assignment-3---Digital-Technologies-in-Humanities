@@ -1,6 +1,5 @@
 # Assignment 3 - Digital Technologies in Humanities
-# **Reflection on AI, digital security and interdisciplinary communication**
-## **Digital technologies within the humanities – Assignment 3** 
+## **Reflection on AI, digital security and interdisciplinary communication**
 ### **Cristel Eme** 201909506 
 
 ### **Artificial Intelligence in Digital Humanities** 
