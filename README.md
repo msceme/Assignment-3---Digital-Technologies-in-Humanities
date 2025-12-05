@@ -1,7 +1,7 @@
-# Assignment-3---Digital-Technologies-in-Humanities
+# Assignment 3 - Digital-Technologies-in-Humanities
 # **Reflection on AI, digital security and interdisciplinary communication**
 ## **Digital technologies within the humanities – Assignment 3** 
-### **Cristel Eme** - 201909506 
+### **Cristel Eme** 201909506 
 
 ### **Artificial Intelligence in Digital Humanities** 
 Artificial intelligence (AI) has become a central analytical force within the digital humanities, and as computational models increasingly support interpretive, creative, and methodological tasks, lecture materials often emphasize that AI does not replace human interpretation, but rather extends the analytical reach through cognitive scaffolding and multimodal processing ( Frontoni et al., 2024 ).
